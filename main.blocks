@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="ka-ANQ-(=yo:XvTEojet">sprite</variable></variables><block type="device_show_leds" id="Go9wK{IS^,t6oK*0cHbE" disabled-reasons="pxt_automatic_disabled" x="0" y="0"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block><block type="device_show_leds" id="k=$b#6W#.:wnq.FwZxjZ" disabled-reasons="pxt_automatic_disabled" x="449" y="56"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block><block type="device_while" id="/)*tP,u!j8]y__LNvil#" disabled-reasons="pxt_automatic_disabled" x="160" y="122"><value name="COND"><shadow type="logic_boolean" id="mL|8vnF{{6^xD=.Pyt_u" disabled-reasons="pxt_automatic_disabled"><field name="BOOL">TRUE</field></shadow></value></block><block type="game_turn_sprite" id="IyyER?nZkWn+oX})s5X(" disabled-reasons="pxt_automatic_disabled" x="212" y="325"><field name="direction">Direction.Right</field><value name="sprite"><block type="variables_get" id="!OgaQVWcEKyVzwsY}!79" disabled-reasons="pxt_automatic_disabled"><field name="VAR" id="ka-ANQ-(=yo:XvTEojet">sprite</field></block></value><value name="degrees"><shadow type="math_number" id="h|XUiLFYEU+|iRchy5A$" disabled-reasons="pxt_automatic_disabled"><field name="NUM">45</field></shadow></value></block></xml>
